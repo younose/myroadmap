@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+   
+    margin: 0 250px;
+    
+}
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+table{
+    width: 50%;
+    text-align: center;
+}
+
+th{
+    height: 30px;
+}
+
+td{
+    height: 25px;
+}
+
